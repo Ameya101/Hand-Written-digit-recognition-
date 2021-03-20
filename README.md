@@ -24,5 +24,5 @@ Logistic Regression
 - ```python digitfinal.py```
 
 ### Contributors:
-- [Sharanya Mukherjee](https://github.com/sharanya02)
+-[Ameya Jajulwar]
 
